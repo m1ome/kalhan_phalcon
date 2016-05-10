@@ -1,2 +1,3 @@
 vendor
 application/database/db.sqlite
+spec/database/test.sqlite
