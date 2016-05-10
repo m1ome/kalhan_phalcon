@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "crysalead/kahlan": "^2.5"
+    }
+}
