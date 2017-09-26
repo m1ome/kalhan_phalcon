@@ -13,7 +13,7 @@ mkdir /tmp/phalcon-kahlan
 cd /tmp/phalcon-kahlan
 git clone git@github.com:m1ome/kalhan_phalcon.git . 
 composer install
-./vendore/bin/kahlan
+./vendor/bin/kahlan
 ```
 
 # Application
